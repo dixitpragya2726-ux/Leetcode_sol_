@@ -11,6 +11,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0061-rotate-list) |
 | [0287-find-the-duplicate-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -48,4 +49,8 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0877-stone-game) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
