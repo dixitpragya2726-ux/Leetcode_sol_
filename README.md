@@ -8,6 +8,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0287-find-the-duplicate-number) |
 | [0877-stone-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0877-stone-game) |
+| [1472-design-browser-history](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1472-design-browser-history) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,11 +64,13 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -80,4 +83,16 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3345-smallest-divisible-digit-product-i) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
