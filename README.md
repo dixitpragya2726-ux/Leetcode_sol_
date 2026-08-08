@@ -95,4 +95,8 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1472-design-browser-history) |
+## String
+|  |
+| ------- |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 <!---LeetCode Topics End-->
