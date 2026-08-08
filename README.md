@@ -9,6 +9,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0287-find-the-duplicate-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0287-find-the-duplicate-number) |
 | [0877-stone-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0877-stone-game) |
 | [1472-design-browser-history](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1472-design-browser-history) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0234-palindrome-linked-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0287-find-the-duplicate-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Binary Search
 |  |
 | ------- |
