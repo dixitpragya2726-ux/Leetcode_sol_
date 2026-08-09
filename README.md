@@ -6,6 +6,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0287-find-the-duplicate-number) |
 | [0877-stone-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0877-stone-game) |
 | [1472-design-browser-history](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1472-design-browser-history) |
@@ -106,4 +107,8 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 |  |
 | ------- |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
