@@ -40,6 +40,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0002-add-two-numbers) |
 | [0877-stone-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
@@ -61,6 +62,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -77,6 +79,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
