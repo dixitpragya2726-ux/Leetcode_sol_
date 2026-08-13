@@ -22,6 +22,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0061-rotate-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0287-find-the-duplicate-number) |
@@ -76,6 +77,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0328-odd-even-linked-list) |
@@ -84,12 +86,14 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0234-palindrome-linked-list) |
 | [1472-design-browser-history](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
