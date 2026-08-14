@@ -50,11 +50,13 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -96,6 +98,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0002-add-two-numbers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,4 +145,8 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2161-partition-array-according-to-given-pivot) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
