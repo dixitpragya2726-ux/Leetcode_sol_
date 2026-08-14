@@ -82,6 +82,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0234-palindrome-linked-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0328-odd-even-linked-list) |
 | [1472-design-browser-history](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1472-design-browser-history) |
+| [1669-merge-in-between-linked-lists](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
