@@ -15,6 +15,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [2161-partition-array-according-to-given-pivot](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -115,6 +116,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Design
 |  |
