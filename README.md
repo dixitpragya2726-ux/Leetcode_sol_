@@ -18,6 +18,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [2161-partition-array-according-to-given-pivot](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2574-left-and-right-sum-differences](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -153,6 +154,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
 |  |
 | ------- |
