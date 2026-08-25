@@ -6,6 +6,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0287-find-the-duplicate-number) |
 | [0877-stone-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0877-stone-game) |
@@ -79,6 +80,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0877-stone-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
