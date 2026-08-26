@@ -159,6 +159,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1208-get-equal-substrings-within-budget) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
@@ -186,6 +187,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [1248-count-number-of-nice-subarrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1248-count-number-of-nice-subarrays) |
 | [2090-k-radius-subarray-averages](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2090-k-radius-subarray-averages) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
