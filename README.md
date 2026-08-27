@@ -6,6 +6,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0239-sliding-window-maximum) |
@@ -51,6 +52,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0287-find-the-duplicate-number) |
 | [1208-get-equal-substrings-within-budget](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1208-get-equal-substrings-within-budget) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -226,4 +228,8 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0239-sliding-window-maximum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
