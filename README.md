@@ -164,6 +164,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3707-equal-score-substrings](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3707-equal-score-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -177,6 +178,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [2270-number-of-ways-to-split-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2270-number-of-ways-to-split-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2574-left-and-right-sum-differences) |
+| [3707-equal-score-substrings](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3707-equal-score-substrings) |
 ## Sorting
 |  |
 | ------- |
