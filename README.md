@@ -75,6 +75,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | ------- |
 | [0002-add-two-numbers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1248-count-number-of-nice-subarrays) |
@@ -130,6 +131,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0143-reorder-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
