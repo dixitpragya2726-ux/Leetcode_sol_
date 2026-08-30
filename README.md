@@ -20,6 +20,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1732-find-the-highest-altitude) |
 | [2090-k-radius-subarray-averages](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2090-k-radius-subarray-averages) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2270-number-of-ways-to-split-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2270-number-of-ways-to-split-array) |
@@ -244,4 +245,8 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
