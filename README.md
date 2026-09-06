@@ -17,6 +17,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0930-binary-subarrays-with-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1248-count-number-of-nice-subarrays) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1472-design-browser-history](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1472-design-browser-history) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1588-sum-of-all-odd-length-subarrays) |
