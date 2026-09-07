@@ -22,6 +22,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1732-find-the-highest-altitude) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2090-k-radius-subarray-averages](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2149-rearrange-array-elements-by-sign) |
