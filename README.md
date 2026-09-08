@@ -95,6 +95,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3876-construct-uniform-parity-array-ii) |
