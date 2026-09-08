@@ -4,11 +4,7 @@ public:
         if(n<1000){
             return 0;
         }
-        else if(n>=1000 && n<100000){
-            return n-1000+1;
-        }
-        
-        return 100000-1000+1;
+        return n-1000+1;
         
     }
 };
