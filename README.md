@@ -97,6 +97,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0342-power-of-four](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -121,6 +122,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0509-fibonacci-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1137-n-th-tribonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Minimax
 |  |
@@ -261,6 +263,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | ------- |
 | [0070-climbing-stairs](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1137-n-th-tribonacci-number) |
 ## Number Theory
 |  |
 | ------- |
