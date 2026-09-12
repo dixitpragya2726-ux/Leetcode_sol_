@@ -90,6 +90,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0342-power-of-four) |
@@ -112,6 +113,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0392-is-subsequence) |
@@ -255,6 +257,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
