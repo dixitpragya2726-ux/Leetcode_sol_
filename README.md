@@ -96,6 +96,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0326-power-of-three](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1248-count-number-of-nice-subarrays) |
@@ -302,4 +303,8 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0215-kth-largest-element-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
