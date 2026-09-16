@@ -49,6 +49,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [3875-construct-uniform-parity-array-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -233,6 +234,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [2574-left-and-right-sum-differences](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2574-left-and-right-sum-differences) |
 | [3707-equal-score-substrings](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3707-equal-score-substrings) |
 | [3903-smallest-stable-index-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
 |  |
 | ------- |
