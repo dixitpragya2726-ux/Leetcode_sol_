@@ -106,6 +106,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2063-vowels-of-all-substrings](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2063-vowels-of-all-substrings) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -129,6 +130,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0877-stone-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1137-n-th-tribonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2063-vowels-of-all-substrings](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2063-vowels-of-all-substrings) |
 ## Minimax
 |  |
 | ------- |
@@ -216,6 +218,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | ------- |
 | [0392-is-subsequence](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0392-is-subsequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1208-get-equal-substrings-within-budget) |
+| [2063-vowels-of-all-substrings](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2063-vowels-of-all-substrings) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -324,4 +327,8 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0416-partition-equal-subset-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2063-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
