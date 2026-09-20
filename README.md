@@ -221,6 +221,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3498-reverse-degree-of-a-string) |
 | [3707-equal-score-substrings](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3707-equal-score-substrings) |
 ## Prefix Sum
 |  |
@@ -265,6 +266,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [2149-rearrange-array-elements-by-sign](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
 |  |
 | ------- |
