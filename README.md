@@ -164,6 +164,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0234-palindrome-linked-list) |
 | [1472-design-browser-history](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1472-design-browser-history) |
@@ -216,6 +217,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0392-is-subsequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1208-get-equal-substrings-within-budget) |
 | [2063-vowels-of-all-substrings](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2063-vowels-of-all-substrings) |
@@ -331,4 +333,8 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2063-vowels-of-all-substrings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
