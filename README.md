@@ -46,6 +46,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3483-unique-3-digit-even-numbers) |
+| [3701-compute-alternating-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3875-construct-uniform-parity-array-i) |
@@ -279,6 +280,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [2553-separate-the-digits-in-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3498-reverse-degree-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3701-compute-alternating-sum) |
 ## Memoization
 |  |
 | ------- |
