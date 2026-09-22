@@ -111,6 +111,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [2063-vowels-of-all-substrings](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2063-vowels-of-all-substrings) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2544-alternating-digit-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2544-alternating-digit-sum) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
