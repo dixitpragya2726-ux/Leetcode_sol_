@@ -36,6 +36,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2553-separate-the-digits-in-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2574-left-and-right-sum-differences) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -272,6 +273,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2553-separate-the-digits-in-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
