@@ -23,6 +23,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [1248-count-number-of-nice-subarrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1248-count-number-of-nice-subarrays) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1331-rank-transform-of-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1331-rank-transform-of-an-array) |
 | [1472-design-browser-history](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1472-design-browser-history) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -195,6 +196,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0930-binary-subarrays-with-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1331-rank-transform-of-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2094-finding-3-digit-even-numbers) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -257,6 +259,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0414-third-maximum-number) |
+| [1331-rank-transform-of-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1331-rank-transform-of-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
