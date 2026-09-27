@@ -175,6 +175,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0020-valid-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0234-palindrome-linked-list) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
@@ -229,6 +230,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | ------- |
 | [0020-valid-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0392-is-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1208-get-equal-substrings-within-budget) |
 | [2063-vowels-of-all-substrings](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2063-vowels-of-all-substrings) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -352,4 +354,5 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
