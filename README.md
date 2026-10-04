@@ -101,6 +101,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0002-add-two-numbers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0342-power-of-four) |
@@ -233,6 +234,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0020-valid-parentheses) |
+| [0168-excel-sheet-column-title](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0168-excel-sheet-column-title) |
 | [0392-is-subsequence](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0392-is-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
