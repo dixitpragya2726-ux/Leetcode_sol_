@@ -53,6 +53,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [3701-compute-alternating-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3903-smallest-stable-index-i) |
@@ -275,6 +276,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [2094-finding-3-digit-even-numbers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2094-finding-3-digit-even-numbers) |
 | [2784-check-if-array-is-good](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
@@ -343,6 +345,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0011-container-with-most-water](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0055-jump-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quickselect
 |  |
 | ------- |
