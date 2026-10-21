@@ -378,5 +378,6 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
