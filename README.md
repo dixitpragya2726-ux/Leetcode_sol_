@@ -375,4 +375,8 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0020-valid-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
