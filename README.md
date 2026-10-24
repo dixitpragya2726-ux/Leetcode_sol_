@@ -15,6 +15,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0238-product-of-array-except-self](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0746-min-cost-climbing-stairs) |
@@ -138,6 +139,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0070-climbing-stairs](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0509-fibonacci-number) |
@@ -360,6 +362,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -382,4 +385,12 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0176-second-highest-salary](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0182-duplicate-emails) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
