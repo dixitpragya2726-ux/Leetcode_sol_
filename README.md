@@ -31,6 +31,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -147,6 +148,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0877-stone-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1137-n-th-tribonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2063-vowels-of-all-substrings](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2063-vowels-of-all-substrings) |
 ## Minimax
 |  |
@@ -393,4 +395,8 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0322-coin-change) |
+## Matrix
+|  |
+| ------- |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 <!---LeetCode Topics End-->
