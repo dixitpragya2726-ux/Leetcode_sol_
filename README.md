@@ -9,6 +9,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0004-median-of-two-sorted-arrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0215-kth-largest-element-in-an-array) |
@@ -89,6 +90,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0342-power-of-four) |
@@ -400,4 +402,8 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 |  |
 | ------- |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
