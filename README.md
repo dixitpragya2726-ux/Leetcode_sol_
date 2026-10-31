@@ -8,6 +8,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0011-container-with-most-water) |
+| [0039-combination-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0090-subsets-ii) |
@@ -409,6 +410,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
