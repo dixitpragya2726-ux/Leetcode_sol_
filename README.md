@@ -16,6 +16,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0287-find-the-duplicate-number) |
@@ -415,4 +416,5 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0040-combination-sum-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
