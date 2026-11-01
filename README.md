@@ -10,6 +10,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0011-container-with-most-water](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0090-subsets-ii) |
@@ -414,6 +415,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | ------- |
 | [0039-combination-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0216-combination-sum-iii) |
