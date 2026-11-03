@@ -26,6 +26,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0416-partition-equal-subset-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1248-count-number-of-nice-subarrays) |
@@ -290,6 +291,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2094-finding-3-digit-even-numbers) |
@@ -345,6 +347,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -358,6 +361,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -423,4 +427,20 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0078-subsets](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0216-combination-sum-iii) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
