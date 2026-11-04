@@ -130,6 +130,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1922-count-good-numbers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1922-count-good-numbers) |
 | [2063-vowels-of-all-substrings](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2063-vowels-of-all-substrings) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2409-count-days-spent-together](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2409-count-days-spent-together) |
@@ -212,6 +213,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0326-power-of-three](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1922-count-good-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
