@@ -410,6 +410,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0184-department-highest-salary](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0184-department-highest-salary) |
 | [0577-employee-bonus](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0577-employee-bonus) |
 | [0619-biggest-single-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0619-biggest-single-number) |
+| [1757-recyclable-and-low-fat-products](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1757-recyclable-and-low-fat-products) |
 ## Breadth-First Search
 |  |
 | ------- |
