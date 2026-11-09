@@ -155,6 +155,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -263,6 +264,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0168-excel-sheet-column-title) |
 | [0392-is-subsequence](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0392-is-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1189-maximum-number-of-balloons) |
@@ -405,6 +407,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Database
@@ -435,6 +438,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0046-permutations) |
