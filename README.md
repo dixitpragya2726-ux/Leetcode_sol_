@@ -148,6 +148,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3875-construct-uniform-parity-array-i) |
@@ -382,6 +383,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0055-jump-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0055-jump-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Quickselect
 |  |
 | ------- |
