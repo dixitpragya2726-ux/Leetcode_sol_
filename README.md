@@ -60,6 +60,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3483-unique-3-digit-even-numbers) |
 | [3701-compute-alternating-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3701-compute-alternating-sum) |
