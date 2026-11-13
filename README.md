@@ -109,6 +109,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0231-power-of-two](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0389-find-the-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Pigeonhole Principle
 |  |
@@ -229,6 +230,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0160-intersection-of-two-linked-lists) |
+| [0389-find-the-difference](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0389-find-the-difference) |
 | [0930-binary-subarrays-with-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1189-maximum-number-of-balloons) |
@@ -268,6 +270,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0020-valid-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0168-excel-sheet-column-title) |
+| [0389-find-the-difference](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0392-is-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -303,6 +306,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0215-kth-largest-element-in-an-array) |
+| [0389-find-the-difference](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1331-rank-transform-of-an-array) |
