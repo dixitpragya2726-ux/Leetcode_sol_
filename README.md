@@ -12,6 +12,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0039-combination-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0090-subsets-ii) |
@@ -307,6 +308,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0414-third-maximum-number) |
@@ -454,6 +456,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0039-combination-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0216-combination-sum-iii) |
