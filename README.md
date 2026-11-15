@@ -70,6 +70,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [3718-smallest-missing-multiple-of-k](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -247,6 +248,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -303,6 +305,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [2574-left-and-right-sum-differences](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3364-minimum-positive-sum-subarray) |
 | [3707-equal-score-substrings](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3707-equal-score-substrings) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
@@ -362,6 +365,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0992-subarrays-with-k-different-integers](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2833-furthest-point-from-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Queue
 |  |
 | ------- |
@@ -386,6 +390,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0004-median-of-two-sorted-arrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -464,6 +469,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -476,4 +482,8 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0912-sort-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
