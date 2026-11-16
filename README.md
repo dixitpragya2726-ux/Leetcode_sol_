@@ -281,6 +281,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [1208-get-equal-substrings-within-budget](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1208-get-equal-substrings-within-budget) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2063-vowels-of-all-substrings](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2063-vowels-of-all-substrings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2409-count-days-spent-together) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2833-furthest-point-from-origin) |
@@ -344,6 +345,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [2149-rearrange-array-elements-by-sign](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3498-reverse-degree-of-a-string) |
