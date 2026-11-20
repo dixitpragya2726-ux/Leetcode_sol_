@@ -26,6 +26,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0322-coin-change](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0416-partition-equal-subset-sum) |
+| [0561-array-partition](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0561-array-partition) |
 | [0746-min-cost-climbing-stairs](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0912-sort-an-array) |
@@ -319,6 +320,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0215-kth-largest-element-in-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -401,6 +403,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | ------- |
 | [0011-container-with-most-water](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0055-jump-game) |
+| [0561-array-partition](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0561-array-partition) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -487,6 +490,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0912-sort-an-array) |
 ## Segment Tree
 |  |
