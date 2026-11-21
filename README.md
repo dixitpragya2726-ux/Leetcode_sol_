@@ -166,6 +166,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0055-jump-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0392-is-subsequence) |
@@ -276,6 +277,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0168-excel-sheet-column-title) |
 | [0389-find-the-difference](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0392-is-subsequence) |
@@ -473,6 +475,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [0047-permutations-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/0216-combination-sum-iii) |
 ## Merge Sort
 |  |
