@@ -150,6 +150,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [2544-alternating-digit-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2544-alternating-digit-sum) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3360-stone-removal-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -356,6 +357,7 @@ Solving LeetCode one problem at a time. Documenting my DSA journey in C++
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/dixitpragya2726-ux/Leetcode_sol_/tree/master/3838-weighted-word-mapping) |
